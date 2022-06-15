@@ -1,3 +1,3 @@
 # Meteors
 interesting star/meteor css/svg animation
-![f2214a41aaa290fe045df8c5ad3ddf7c](https://user-images.githubusercontent.com/85764295/173909885-31ff6b48-7b2f-4820-8be8-15679aca3dbe.gif)
+![5f8176abb137d53fdc6ba58c100c3900](https://user-images.githubusercontent.com/85764295/173910472-93931dc5-3a45-43c8-bf53-30cb82c52477.gif)
