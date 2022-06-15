@@ -1,0 +1,324 @@
+
+  html {
+    background: rgb(19, 18, 18);
+    background: radial-gradient(circle, rgb(41, 42, 44) 0%, rgb(34, 32, 32) 100%);
+  }
+
+  .stars {
+      display: flex;
+      justify-content: center;
+      margin-top: 10%;
+  }
+
+@-webkit-keyframes animate-svg-stroke-1 {
+    0% {
+      stroke-dashoffset: 372.2916564941406px;
+      stroke-dasharray: 372.2916564941406px;
+      opacity: 0;
+    }
+  
+    30% {
+      opacity: 0.7;
+    }
+    73% {
+      stroke-dashoffset: -342.2916564941406px;
+      stroke-dasharray: 372.2916564941406px;
+    }
+  
+    100% {
+      stroke-dashoffset: -372.2916564941406px;
+      stroke-dasharray: 372.2916564941406px;
+      opacity: 0;
+    }
+  }
+  
+  @keyframes animate-svg-stroke-1 {
+    0% {
+      stroke-dashoffset: 372.2916564941406px;
+      stroke-dasharray: 372.2916564941406px;
+      opacity: 0;
+    }
+  
+    30% {
+      opacity: 1;
+    }
+    73% {
+      stroke-dashoffset: -342.2916564941406px;
+      stroke-dasharray: 372.2916564941406px;
+    }
+  
+    100% {
+      stroke-dashoffset: -372.2916564941406px;
+      stroke-dasharray: 372.2916564941406px;
+      opacity: 0;
+    }
+  }
+  
+  .svg-elem-1 {
+    -webkit-animation: animate-svg-stroke-1 3s cubic-bezier(0.23, 1, 0.32, 1) 0s
+      both;
+    animation: animate-svg-stroke-1 3s cubic-bezier(0.23, 1, 0.32, 1) 0s both;
+    animation-iteration-count: infinite;
+    animation-delay: 7.7s;
+  }
+  
+  @-webkit-keyframes animate-svg-stroke-2 {
+    0% {
+      stroke-dashoffset: 372.2916564941406px;
+      stroke-dasharray: 372.2916564941406px;
+      opacity: 0;
+    }
+  
+    30% {
+      opacity: 0.9;
+    }
+    73% {
+      stroke-dashoffset: -342.2916564941406px;
+      stroke-dasharray: 372.2916564941406px;
+    }
+  
+    100% {
+      stroke-dashoffset: -372.2916564941406px;
+      stroke-dasharray: 372.2916564941406px;
+      opacity: 0;
+    }
+  }
+  
+  @keyframes animate-svg-stroke-2 {
+    0% {
+      stroke-dashoffset: 372.2916564941406px;
+      stroke-dasharray: 372.2916564941406px;
+      opacity: 0;
+    }
+  
+    30% {
+      opacity: 0.7;
+    }
+    73% {
+      stroke-dashoffset: -342.2916564941406px;
+      stroke-dasharray: 372.2916564941406px;
+    }
+  
+    100% {
+      stroke-dashoffset: -372.2916564941406px;
+      stroke-dasharray: 372.2916564941406px;
+      opacity: 0;
+    }
+  }
+  
+  .svg-elem-2 {
+    -webkit-animation: animate-svg-stroke-2 5s cubic-bezier(0.23, 1, 0.32, 1)
+      0.12s both;
+    animation: animate-svg-stroke-2 3s cubic-bezier(0.23, 1, 0.32, 1) 0.12s both;
+    animation-iteration-count: infinite;
+    animation-delay: 5.8s;
+  }
+  
+  @-webkit-keyframes animate-svg-stroke-3 {
+    0% {
+      stroke-dashoffset: 372.2916564941406px;
+      stroke-dasharray: 372.2916564941406px;
+      opacity: 0;
+    }
+  
+    30% {
+      opacity: 0.7;
+    }
+    73% {
+      stroke-dashoffset: -342.2916564941406px;
+      stroke-dasharray: 372.2916564941406px;
+    }
+  
+    100% {
+      stroke-dashoffset: -372.2916564941406px;
+      stroke-dasharray: 372.2916564941406px;
+      opacity: 0;
+    }
+  }
+  
+  @keyframes animate-svg-stroke-3 {
+    0% {
+      stroke-dashoffset: 372.2916564941406px;
+      stroke-dasharray: 372.2916564941406px;
+      opacity: 0;
+    }
+  
+    30% {
+      opacity: 1;
+    }
+    73% {
+      stroke-dashoffset: -342.2916564941406px;
+      stroke-dasharray: 372.2916564941406px;
+    }
+  
+    100% {
+      stroke-dashoffset: -372.2916564941406px;
+      stroke-dasharray: 372.2916564941406px;
+      opacity: 0;
+    }
+  }
+  
+  .svg-elem-3 {
+    -webkit-animation: animate-svg-stroke-3 3s cubic-bezier(0.23, 1, 0.32, 1)
+      0.24s both;
+    animation: animate-svg-stroke-3 3s cubic-bezier(0.23, 1, 0.32, 1) 0.24s both;
+    animation-iteration-count: infinite;
+    animation-delay: 3.7s;
+  }
+  
+  @-webkit-keyframes animate-svg-stroke-4 {
+    0% {
+      stroke-dashoffset: 372.2916564941406px;
+      stroke-dasharray: 372.2916564941406px;
+      opacity: 0;
+    }
+  
+    30% {
+      opacity: 0.9;
+    }
+    73% {
+      stroke-dashoffset: -342.2916564941406px;
+      stroke-dasharray: 372.2916564941406px;
+    }
+  
+    100% {
+      stroke-dashoffset: -372.2916564941406px;
+      stroke-dasharray: 372.2916564941406px;
+      opacity: 0;
+    }
+  }
+  
+  @keyframes animate-svg-stroke-4 {
+    0% {
+      stroke-dashoffset: 372.2916564941406px;
+      stroke-dasharray: 372.2916564941406px;
+      opacity: 0;
+    }
+  
+    30% {
+      opacity: 0.7;
+    }
+    73% {
+      stroke-dashoffset: -342.2916564941406px;
+      stroke-dasharray: 372.2916564941406px;
+    }
+  
+    100% {
+      stroke-dashoffset: -372.2916564941406px;
+      stroke-dasharray: 372.2916564941406px;
+      opacity: 0;
+    }
+  }
+  
+  .svg-elem-4 {
+    -webkit-animation: animate-svg-stroke-4 3s cubic-bezier(0.23, 1, 0.32, 1)
+      0.36s both;
+    animation: animate-svg-stroke-4 3s cubic-bezier(0.23, 1, 0.32, 1) 0.36s both;
+    animation-iteration-count: infinite;
+    animation-delay: 2.5s;
+  }
+  
+  @-webkit-keyframes animate-svg-stroke-5 {
+    0% {
+      stroke-dashoffset: 372.2916564941406px;
+      stroke-dasharray: 372.2916564941406px;
+      opacity: 0;
+    }
+  
+    30% {
+      opacity: 0.7;
+    }
+    73% {
+      stroke-dashoffset: -342.2916564941406px;
+      stroke-dasharray: 372.2916564941406px;
+    }
+  
+    100% {
+      stroke-dashoffset: -372.2916564941406px;
+      stroke-dasharray: 372.2916564941406px;
+      opacity: 0;
+    }
+  }
+  
+  @keyframes animate-svg-stroke-5 {
+    0% {
+      stroke-dashoffset: 372.2916564941406px;
+      stroke-dasharray: 372.2916564941406px;
+      opacity: 0;
+    }
+  
+    30% {
+      opacity: 1;
+    }
+    73% {
+      stroke-dashoffset: -342.2916564941406px;
+      stroke-dasharray: 372.2916564941406px;
+    }
+  
+    100% {
+      stroke-dashoffset: -372.2916564941406px;
+      stroke-dasharray: 372.2916564941406px;
+      opacity: 0;
+    }
+  }
+  
+  .svg-elem-5 {
+    -webkit-animation: animate-svg-stroke-5 3s cubic-bezier(0.23, 1, 0.32, 1)
+      0.48s both;
+    animation: animate-svg-stroke-5 3s cubic-bezier(0.23, 1, 0.32, 1) 0.48s both;
+    animation-iteration-count: infinite;
+    animation-delay: 4s;
+  }
+  
+  @-webkit-keyframes animate-svg-stroke-6 {
+    0% {
+      stroke-dashoffset: 372.2916564941406px;
+      stroke-dasharray: 372.2916564941406px;
+      opacity: 0;
+    }
+  
+    30% {
+      opacity: 1;
+    }
+    73% {
+      stroke-dashoffset: -342.2916564941406px;
+      stroke-dasharray: 372.2916564941406px;
+    }
+  
+    100% {
+      stroke-dashoffset: -372.2916564941406px;
+      stroke-dasharray: 372.2916564941406px;
+      opacity: 0;
+    }
+  }
+  
+  @keyframes animate-svg-stroke-6 {
+    0% {
+      stroke-dashoffset: 372.2916564941406px;
+      stroke-dasharray: 372.2916564941406px;
+      opacity: 0;
+    }
+  
+    30% {
+      opacity: 1;
+    }
+    73% {
+      stroke-dashoffset: -342.2916564941406px;
+      stroke-dasharray: 372.2916564941406px;
+    }
+  
+    100% {
+      stroke-dashoffset: -372.2916564941406px;
+      stroke-dasharray: 372.2916564941406px;
+      opacity: 0;
+    }
+  }
+  
+  .svg-elem-6 {
+    -webkit-animation: animate-svg-stroke-6 3s cubic-bezier(0.23, 1, 0.32, 1) 0.6s
+      both;
+    animation: animate-svg-stroke-6 3s cubic-bezier(0.23, 1, 0.32, 1) 0.6s both;
+    animation-iteration-count: infinite;
+    animation-delay: 6.3s;
+  }
+  
