@@ -1,4 +1,4 @@
 # Meteors
 interesting star/meteor css/svg animation
 
-![5f8176abb137d53fdc6ba58c100c3900](https://user-images.githubusercontent.com/85764295/173910472-93931dc5-3a45-43c8-bf53-30cb82c52477.gif)
+<a href="https://gyazo.com/e6a8d49c9b8365569871c140e5920cf9"><img src="https://i.gyazo.com/e6a8d49c9b8365569871c140e5920cf9.gif" alt="Image from Gyazo" width="1056"/></a>
